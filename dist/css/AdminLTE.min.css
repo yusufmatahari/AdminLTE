@@ -5,7 +5,7 @@
  *   License: Open source - MIT
  *           Please visit http://opensource.org/licenses/MIT for more information
  */
-
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 html,
 body {
 	height: 100%
@@ -17,7 +17,7 @@ body {
 }
 
 body {
-	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	overflow-x: hidden;
 	overflow-y: auto
@@ -3726,7 +3726,7 @@ table.text-center th {
 .login-box,
 .register-box {
 	width: 360px;
-	margin: 7% auto
+	margin: 1% auto
 }
 
 @media (max-width:768px) {
